@@ -1,0 +1,60 @@
+Algoritma: Caesar Cipher
+Mode: Enkripsi
+Teks: INTERNET
+Kunci: 3
+Hasil: LQWHUQHW
+--------------------------------------------------
+Algoritma: Caesar Cipher
+Mode: Dekripsi
+Teks: LQWHUQHW
+Kunci: 3
+Hasil: INTERNET
+--------------------------------------------------
+Algoritma: Vigenere Cipher
+Mode: Enkripsi
+Teks: INTERNET
+Kunci: JARINGAN
+Hasil: RNKMETEG
+--------------------------------------------------
+Algoritma: Vigenere Cipher
+Mode: Dekripsi
+Teks: RNKMETEG
+Kunci: JARINGAN
+Hasil: INTERNET
+--------------------------------------------------
+Algoritma: Affine Cipher
+Mode: Enkripsi
+Teks: INTERNET
+Kunci: 5,8
+Hasil: WVZCPVCZ
+--------------------------------------------------
+Algoritma: Affine Cipher
+Mode: Dekripsi
+Teks: WVZCPVCZ
+Kunci: 5,8
+Hasil: INTERNET
+--------------------------------------------------
+Algoritma: Playfair Cipher
+Mode: Enkripsi
+Teks: JARINGAN
+Kunci: INTERNET
+Hasil: AGINIHBI
+--------------------------------------------------
+Algoritma: Playfair Cipher
+Mode: Dekripsi
+Teks: AGINIHBI
+Kunci: INTERNET
+Hasil: IARINGAN
+--------------------------------------------------
+Algoritma: Hill Cipher
+Mode: Enkripsi
+Teks: INTERENET
+Kunci: 3,3,2,5
+Hasil: LDRGLCZUWX
+--------------------------------------------------
+Algoritma: Hill Cipher
+Mode: Dekripsi
+Teks: LDRGLCZUWX
+Kunci: 3,3,2,5
+Hasil: INTERENETX
+--------------------------------------------------
